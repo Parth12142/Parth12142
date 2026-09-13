@@ -3,6 +3,8 @@
 
 <p align="center">
   <a href="mailto:parthudhorajiya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/github/followers/Parth12142?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Parth12142?label=Stars&style=social" />
 </p>
 
 ---
@@ -36,16 +38,10 @@
 
 *(Add more of your repos here as you build them — pin your best ones from your repo list to feature them.)*
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parth12142&theme=dark&hide_border=false&count_private=false&cache_seconds=3600&v=20260913" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth12142&theme=dark&hide_border=false&layout=compact&cache_seconds=3600&v=20260913" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Parth12142&theme=dark&hide_border=false&v=20260913" />
-</p>
-
-*(If a stats card doesn't load, it's usually the free public service being rate-limited — refresh the page or check back later.)*
+### 📊 Quick Stats
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Parth12142&label=Public%20Repos&query=public_repos&color=blue" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Parth12142&label=Followers&query=followers&color=blue" />
+<img src="https://img.shields.io/badge/Top%20Languages-JavaScript%20%7C%20HTML%20%7C%20Python-informational" />
 
 ---
 <p align="center"><i>Thanks for stopping by!</i></p>
