@@ -38,12 +38,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parth12142&theme=dark&hide_border=false&count_private=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth12142&theme=dark&hide_border=false&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parth12142&theme=dark&hide_border=false&count_private=false&cache_seconds=3600&v=20260913" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth12142&theme=dark&hide_border=false&layout=compact&cache_seconds=3600&v=20260913" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Parth12142&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Parth12142&theme=dark&hide_border=false&v=20260913" />
 </p>
+
+*(If a stats card doesn't load, it's usually the free public service being rate-limited — refresh the page or check back later.)*
 
 ---
 <p align="center"><i>Thanks for stopping by!</i></p>
